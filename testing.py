@@ -8,7 +8,7 @@ def test_presupuestoEvento_1():
     assert Practica01.presupuestoEvento(20) == 150000
     
 def test_presupuestoEvento_2():
-    assert Practica01.presupuestoEvento(5) == 42500
+    assert Practica01.presupuestoEvento(5) == 47500
     
 def test_presupuestoEvento_3():
     assert Practica01.presupuestoEvento(2) == 19000
