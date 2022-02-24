@@ -33,6 +33,6 @@ Este algoritmo de calcular el costo de los platillos dependiendo del número de 
 >>> presupuestoEvento(2)
 19000
 >>> presupuestoEvento(-10)
-"Error: El número de ser mayor a CERO"
+"Error: El número debe ser mayor a CERO"
 ```
 
