@@ -29,7 +29,7 @@ Este algoritmo de calcular el costo de los platillos dependiendo del número de 
 >>> presupuestoEvento(20)
 150000
 >>> presupuestoEvento(5)
-42500
+47500
 >>> presupuestoEvento(2)
 19000
 >>> presupuestoEvento(-10)
