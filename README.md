@@ -23,7 +23,7 @@
 Este algoritmo de calcular el costo de los platillos dependiendo del número de personas a ingresar al restaurante 
 - El costo normal del platillo por persona es de ¢9500.
 - Si el número de personas es mayor a 5 pero menor o igual a 10, el costo sería ¢8500
-- Para más de 11 personas el costo por platillo es de ¢7500. 
+- Desde 11 personas el costo por platillo es de ¢7500. 
 
 ``` python
 >>> presupuestoEvento(20)
